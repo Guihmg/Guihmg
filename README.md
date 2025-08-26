@@ -1,8 +1,8 @@
 # Olá! Eu sou Guilherme
 
-🎓 Estudante de Ciência da Computação  
-💻 Aspirante a Desenvolvedor Full Stack                    
-🚀 Foco em Python e Inteligência Artificial
+🎓 Estudante de Ciência da Computação <br> 
+💻 Aspirante a Desenvolvedor Full Stack <br>
+🚀 Foco em Python e Inteligência Artificial <br>
 
 ## 🌟 Tecnologias que estudo
 - Python, JavaScript, HTML, CSS
