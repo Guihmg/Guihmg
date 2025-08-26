@@ -1,7 +1,7 @@
 # Olá! Eu sou Guilherme
 
 🎓 Estudante de Ciência da Computação  
-💻 Aspirante a Desenvolvedor Full Stack
+💻 Aspirante a Desenvolvedor Full Stack                    
 🚀 Foco em Python e Inteligência Artificial
 
 ## 🌟 Tecnologias que estudo
@@ -9,9 +9,9 @@
 - Git/GitHub, VS Code, MySQL
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihmg&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/guihmg">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guihmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihmg&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ##
